@@ -1,0 +1,14 @@
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\bin\Debug\net8.0\Profesor-Alumno.exe
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\bin\Debug\net8.0\Profesor-Alumno.deps.json
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\bin\Debug\net8.0\Profesor-Alumno.runtimeconfig.json
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\bin\Debug\net8.0\Profesor-Alumno.dll
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\bin\Debug\net8.0\Profesor-Alumno.pdb
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\obj\Debug\net8.0\Profesor-Alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\obj\Debug\net8.0\Profesor-Alumno.AssemblyInfoInputs.cache
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\obj\Debug\net8.0\Profesor-Alumno.AssemblyInfo.cs
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\obj\Debug\net8.0\Profesor-Alumno.csproj.CoreCompileInputs.cache
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\obj\Debug\net8.0\Profesor-Alumno.dll
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\obj\Debug\net8.0\refint\Profesor-Alumno.dll
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\obj\Debug\net8.0\Profesor-Alumno.pdb
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\obj\Debug\net8.0\Profesor-Alumno.genruntimeconfig.cache
+C:\Users\Halor\source\repos\Profesor-Alumno\Profesor-Alumno\obj\Debug\net8.0\ref\Profesor-Alumno.dll
