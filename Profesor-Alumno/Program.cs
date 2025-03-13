@@ -8,7 +8,7 @@ Dictionary<string, string> diccionario = new Dictionary<string, string>();
 Profesor p = new Profesor();
 Console.WriteLine("Ingrese nombre Profesor: ");
 p.Nombre = Console.ReadLine();
-Console.WriteLine("Ingrese los datos del alumno: \n ¿Cuantas materias tiene? ");
+Console.WriteLine("\nIngrese los datos del alumno: \n ¿Cuantas materias tiene? ");
 numMat = Convert.ToInt32(Console.ReadLine());
 p.capturarDatosAlumno();
 p.capturarMaterias(numMat);

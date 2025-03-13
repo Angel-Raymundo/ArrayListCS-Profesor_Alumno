@@ -24,7 +24,7 @@ namespace Profesor_Alumno
 
         public void capturarMaterias(int n)
         {
-            for (int i = 0; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
                 string ma;
                 Console.WriteLine("Ingrese nombre de materia "+(i+1));
@@ -35,7 +35,7 @@ namespace Profesor_Alumno
 
         public void capturarCalificaciones(int n)
         {
-            for (int i = 0; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
                 int cal;
                 Console.WriteLine("Ingrese calificación de materia " + alumno.Materias[i]);

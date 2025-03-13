@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Halor\\source\\repos\\Profesor-Alumno\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01C1E11F-E841-4B76-95EB-3F267CD127DC}|Profesor-Alumno\\Profesor-Alumno.csproj|c:\\users\\halor\\source\\repos\\profesor-alumno\\profesor-alumno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01C1E11F-E841-4B76-95EB-3F267CD127DC}|Profesor-Alumno\\Profesor-Alumno.csproj|solutionrelative:profesor-alumno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01C1E11F-E841-4B76-95EB-3F267CD127DC}|Profesor-Alumno\\Profesor-Alumno.csproj|c:\\users\\halor\\source\\repos\\profesor-alumno\\profesor-alumno\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01C1E11F-E841-4B76-95EB-3F267CD127DC}|Profesor-Alumno\\Profesor-Alumno.csproj|solutionrelative:profesor-alumno\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C1E11F-E841-4B76-95EB-3F267CD127DC}|Profesor-Alumno\\Profesor-Alumno.csproj|c:\\users\\halor\\source\\repos\\profesor-alumno\\profesor-alumno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C1E11F-E841-4B76-95EB-3F267CD127DC}|Profesor-Alumno\\Profesor-Alumno.csproj|solutionrelative:profesor-alumno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01C1E11F-E841-4B76-95EB-3F267CD127DC}|Profesor-Alumno\\Profesor-Alumno.csproj|c:\\users\\halor\\source\\repos\\profesor-alumno\\profesor-alumno\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,32 +32,32 @@
               "RelativeDocumentMoniker": "Profesor-Alumno\\Alumno.cs",
               "ToolTip": "C:\\Users\\Halor\\source\\repos\\Profesor-Alumno\\Profesor-Alumno\\Alumno.cs",
               "RelativeToolTip": "Profesor-Alumno\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAB4vRcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:31:13.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Profesor.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\Profesor-Alumno\\Profesor-Alumno\\Profesor.cs",
               "RelativeDocumentMoniker": "Profesor-Alumno\\Profesor.cs",
               "ToolTip": "C:\\Users\\Halor\\source\\repos\\Profesor-Alumno\\Profesor-Alumno\\Profesor.cs",
               "RelativeToolTip": "Profesor-Alumno\\Profesor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAjmZmZmbmvyUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:30:10.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\Profesor-Alumno\\Profesor-Alumno\\Program.cs",
               "RelativeDocumentMoniker": "Profesor-Alumno\\Program.cs",
               "ToolTip": "C:\\Users\\Halor\\source\\repos\\Profesor-Alumno\\Profesor-Alumno\\Program.cs",
               "RelativeToolTip": "Profesor-Alumno\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:29:07.498Z",
               "EditorCaption": ""
